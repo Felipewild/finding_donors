@@ -1,2 +1,2 @@
 # finding_donors
-Encontrando Doadores
+Encontrando Perfil de potenciais doadores utilizando inteligência artificial
